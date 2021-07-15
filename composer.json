@@ -1,5 +1,5 @@
 {
-    "name": "mocking-magician/coinbase-pro-sdk-tonycodes",
+    "name": "tonycodes/coinbase-pro-sdk-tonycodes",
     "type": "library",
     "description": "Library for coinbase pro API calls",
     "keywords": [
